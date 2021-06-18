@@ -1,0 +1,9 @@
+G:\Projetos\uTorrent AdBlock\uTorrent AdBlock\bin\Debug\uTorrent AdBlock.exe.config
+G:\Projetos\uTorrent AdBlock\uTorrent AdBlock\bin\Debug\uTorrent AdBlock.exe
+G:\Projetos\uTorrent AdBlock\uTorrent AdBlock\bin\Debug\uTorrent AdBlock.pdb
+G:\Projetos\uTorrent AdBlock\uTorrent AdBlock\obj\Debug\uTorrent AdBlock.csproj.AssemblyReference.cache
+G:\Projetos\uTorrent AdBlock\uTorrent AdBlock\obj\Debug\uTorrent_AdBlock.Properties.Resources.resources
+G:\Projetos\uTorrent AdBlock\uTorrent AdBlock\obj\Debug\uTorrent AdBlock.csproj.GenerateResource.cache
+G:\Projetos\uTorrent AdBlock\uTorrent AdBlock\obj\Debug\uTorrent AdBlock.csproj.CoreCompileInputs.cache
+G:\Projetos\uTorrent AdBlock\uTorrent AdBlock\obj\Debug\uTorrent AdBlock.exe
+G:\Projetos\uTorrent AdBlock\uTorrent AdBlock\obj\Debug\uTorrent AdBlock.pdb
